@@ -39,6 +39,3 @@ This project demonstrates how clustering techniques can be used to segment custo
 - **Programming Languages**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn).
 - **Visualization Tools**: Tableau.
 - **Other Tools**: Jupyter Notebook.
-
-## Folder Structure
-customer-segmentation-analysis/ ├── data/ │ ├── raw_data.csv │ ├── cleaned_data.csv ├── notebooks/ │ ├── data_cleaning.ipynb │ ├── clustering.ipynb ├── visuals/ │ ├── cluster_visualization.png │ ├── dashboard_screenshot.png ├── README.md
